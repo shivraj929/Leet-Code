@@ -1,9 +1,5 @@
 // 61. Rotate List
-// Solved
-// Medium
-// Topics
-// premium lock icon
-// Companies
+
 // Given the head of a linked list, rotate the list to the right by k places.
 
  
